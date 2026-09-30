@@ -1,0 +1,6 @@
+{
+  "name": "SM SADI — Automated Quant Trading & Security Platform",
+  "description": "High-frequency AI quant trading terminal with 98% confidence signal filtering, SHA-256 cryptographic anti-fraud ledger, dual real/demo wallet with BDT/USD gateways, and Telegram Admin Bot control suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
